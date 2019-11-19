@@ -18,7 +18,7 @@ const collatzProblem = n => {
     // while(notSolved) {
     //     console.log('hit')
     //     // if n is even
-    n = 999,999
+    n = 999.999;
     for (let i = 0; i < 10; i++) {
         if(n > 1)  {
             console.log(n)
